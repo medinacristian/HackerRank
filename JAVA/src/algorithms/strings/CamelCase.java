@@ -1,4 +1,4 @@
-package algorithms.strings;
+package algorithms.strings; 
 
 import java.util.*;
 
