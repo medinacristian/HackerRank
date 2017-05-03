@@ -1,4 +1,4 @@
-package daysOfCode30;
+package daysOfCode30.day18;
 
 import java.util.*;
 import java.util.LinkedList;

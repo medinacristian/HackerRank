@@ -1,4 +1,4 @@
-package daysOfCode30;
+package daysOfCode30.day05;
 
 import java.util.*;
 
